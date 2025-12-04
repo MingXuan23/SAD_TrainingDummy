@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|d:\\desktop\\lyonsolution\\iteration3\\test\\winformsapp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|d:\\desktop\\lyonsolution\\iteration3\\test\\winformsapp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|d:\\desktop\\lyonsolution\\iteration3\\test\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|d:\\desktop\\lyonsolution\\iteration3\\test\\winformsapp1\\winformsapp1\\models\\productdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C016BF-B869-4E84-909D-BF5F85113787}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\productdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{35a13b2b-183b-3ec5-a509-0bd77da1a60c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form2.cs",
+              "DocumentMoniker": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\form2.cs",
+              "ToolTip": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\form2.cs",
+              "RelativeToolTip": "WinFormsApp1\\form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:09:31.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form2.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\form2.cs",
+              "ToolTip": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\form2.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:08:15.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwJMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:42:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:35:12.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDatabaseContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\models\\ProductDatabaseContext.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\models\\ProductDatabaseContext.cs",
+              "ToolTip": "D:\\Desktop\\LyonSolution\\Iteration3\\test\\WinFormsApp1\\WinFormsApp1\\models\\ProductDatabaseContext.cs",
+              "RelativeToolTip": "WinFormsApp1\\models\\ProductDatabaseContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:33:24.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

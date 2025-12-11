@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\training6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\training6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\user.txt||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\user.txt||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training6\\training6\\models\\itemdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763267-A884-4E00-A5F7-A0181D9E4DDC}|Training6\\Training6.csproj|solutionrelative:training6\\models\\itemdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{35a13b2b-183b-3ec5-a509-0bd77da1a60c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\models\\User.cs",
+              "RelativeDocumentMoniker": "Training6\\models\\User.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\models\\User.cs",
+              "RelativeToolTip": "Training6\\models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:01:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Training6\\Properties\\Settings.settings",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Properties\\Settings.settings",
+              "RelativeToolTip": "Training6\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-10T07:40:44.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.txt",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\user.txt",
+              "RelativeDocumentMoniker": "Training6\\user.txt",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\user.txt",
+              "RelativeToolTip": "Training6\\user.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-10T07:28:48.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form2.cs",
+              "RelativeDocumentMoniker": "Training6\\Form2.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form2.cs*",
+              "RelativeToolTip": "Training6\\Form2.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAjwGQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:54:46.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form2.cs",
+              "RelativeDocumentMoniker": "Training6\\Form2.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form2.cs [Design]*",
+              "RelativeToolTip": "Training6\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:47:48.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "helper.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\helper.cs",
+              "RelativeDocumentMoniker": "Training6\\helper.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\helper.cs",
+              "RelativeToolTip": "Training6\\helper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:46:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemDatabaseContext.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\models\\ItemDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Training6\\models\\ItemDatabaseContext.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\models\\ItemDatabaseContext.cs",
+              "RelativeToolTip": "Training6\\models\\ItemDatabaseContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:45:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form1.cs",
+              "RelativeDocumentMoniker": "Training6\\Form1.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form1.cs",
+              "RelativeToolTip": "Training6\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwCsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:37:49.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.txt",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\user.txt",
+              "RelativeDocumentMoniker": "Training6\\user.txt",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\user.txt",
+              "RelativeToolTip": "Training6\\user.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-10T07:30:19.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form1.cs",
+              "RelativeDocumentMoniker": "Training6\\Form1.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training6\\Training6\\Form1.cs [Design]",
+              "RelativeToolTip": "Training6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:32:04.89Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

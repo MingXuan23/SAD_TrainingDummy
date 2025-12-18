@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\scorepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\scorepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\newpage1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\newpage1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\scorepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\scorepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training17122025\\training17122025\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782C964-1B41-4ACE-84E7-A12064AF1BE0}|Training17122025\\Training17122025.csproj|solutionrelative:training17122025\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{35a13b2b-183b-3ec5-a509-0bd77da1a60c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Training17122025\\AppShell.xaml.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\AppShell.xaml.cs",
+              "RelativeToolTip": "Training17122025\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:32:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\AppShell.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\AppShell.xaml",
+              "RelativeToolTip": "Training17122025\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T08:25:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Training17122025\\App.xaml.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\App.xaml.cs",
+              "RelativeToolTip": "Training17122025\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:25:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\App.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\App.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\App.xaml",
+              "RelativeToolTip": "Training17122025\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T08:25:35.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginpage.xaml.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\loginpage.xaml.cs",
+              "RelativeDocumentMoniker": "Training17122025\\loginpage.xaml.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\loginpage.xaml.cs",
+              "RelativeToolTip": "Training17122025\\loginpage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:25:06.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginpage.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\loginpage.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\loginpage.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\loginpage.xaml",
+              "RelativeToolTip": "Training17122025\\loginpage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T08:24:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Training17122025\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T07:55:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "game.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\models\\game.cs",
+              "RelativeDocumentMoniker": "Training17122025\\models\\game.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\models\\game.cs",
+              "RelativeToolTip": "Training17122025\\models\\game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:45:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scorepage.xaml.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\scorepage.xaml.cs",
+              "RelativeDocumentMoniker": "Training17122025\\scorepage.xaml.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\scorepage.xaml.cs",
+              "RelativeToolTip": "Training17122025\\scorepage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:26:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "scorepage.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\scorepage.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\scorepage.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\scorepage.xaml",
+              "RelativeToolTip": "Training17122025\\scorepage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T07:25:37.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gamepage.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\gamepage.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\gamepage.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\gamepage.xaml",
+              "RelativeToolTip": "Training17122025\\gamepage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T06:42:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewPage1.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\NewPage1.cs",
+              "RelativeDocumentMoniker": "Training17122025\\NewPage1.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\NewPage1.cs",
+              "RelativeToolTip": "Training17122025\\NewPage1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:41:21.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Training17122025\\MainPage.xaml.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\MainPage.xaml.cs",
+              "RelativeToolTip": "Training17122025\\MainPage.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:30:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Training17122025\\MainPage.xaml",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\MainPage.xaml",
+              "RelativeToolTip": "Training17122025\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T06:16:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Training17122025\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training17122025\\Training17122025\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Training17122025\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:15:49.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

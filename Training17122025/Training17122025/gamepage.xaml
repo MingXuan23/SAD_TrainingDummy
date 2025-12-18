@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Training17122025.gamepage"
+             Title="gamepage">
+
+    <Grid RowDefinitions="200, * , auto">
+        <Label Text="Row 0"></Label>
+        <VerticalStackLayout x:Name="itemsec" VerticalOptions="Center" HeightRequest="300" Grid.Row="1">
+            <Image x:Name="image1" HeightRequest="100" WidthRequest="100" ></Image>
+            <Image x:Name="image2" HeightRequest="100" WidthRequest="100" ></Image>
+
+            <Label Text="{Binding [hint] }" CharacterSpacing="10" HorizontalTextAlignment="Center"></Label>
+
+            <Entry Text="{Binding [answer]}" x:Name="input" WidthRequest="200" HorizontalTextAlignment="Center" TextTransform="Uppercase"></Entry>
+
+
+        </VerticalStackLayout>
+
+        <FlexLayout JustifyContent="SpaceBetween" Grid.Row="2">
+            <Button x:Name="prevbtn" Text="PREV" Clicked="Button_Clicked"></Button>
+            <Button  x:Name="nextbtn" Text="NEXT" Clicked="Button_Clicked_1"></Button>
+        </FlexLayout>
+    </Grid>
+</ContentPage>
+
+
+<!--
+     <FlexLayout JustifyContent="SpaceAround" Direction="Column" Padding="60">
+
+
+     <VerticalStackLayout x:Name="itemsec" VerticalOptions="Center" HeightRequest="300">
+         <Image Source="{Binding [image_url]}" HeightRequest="100" WidthRequest="100" ></Image>
+         <Image Source="http://10.0.2.2:5000/images/banana.png" HeightRequest="100" WidthRequest="100" ></Image>
+         <Label Text="{Binding [hint] }" CharacterSpacing="10" HorizontalTextAlignment="Center"></Label>
+
+         <Entry Text="{Binding [answer]}" WidthRequest="200" HorizontalTextAlignment="Center"></Entry>
+
+        
+     </VerticalStackLayout>
+
+     <FlexLayout JustifyContent="SpaceBetween">
+         <Button x:Name="prevbtn" Text="PREV" Clicked="Button_Clicked"></Button>
+         <Button  x:Name="nextbtn" Text="NEXT" Clicked="Button_Clicked_1"></Button>
+     </FlexLayout>
+ </FlexLayout>-->

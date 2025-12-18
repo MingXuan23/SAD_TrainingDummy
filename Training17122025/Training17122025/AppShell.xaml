@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Training17122025.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Training17122025"
+    FlyoutBehavior="Flyout"
+    Title="Training17122025">
+
+
+    <Shell.FlyoutHeader>
+        <VerticalStackLayout HeightRequest="300" BackgroundColor="LightYellow">
+            
+        </VerticalStackLayout>
+    </Shell.FlyoutHeader>
+    <FlyoutItem Title="Main page">
+        <ShellContent
+    Title="Home"
+    ContentTemplate="{DataTemplate local:MainPage}"
+    Route="MainPage" />
+
+
+
+    </FlyoutItem>
+
+    <FlyoutItem Title="Login">
+        <ShellContent
+Title="Home"
+ContentTemplate="{DataTemplate local:loginpage}"
+Route="MainPage" />
+    </FlyoutItem>
+
+    <MenuItem Text="Logout" Clicked="MenuItem_Clicked"> 
+        
+    </MenuItem>
+</Shell>

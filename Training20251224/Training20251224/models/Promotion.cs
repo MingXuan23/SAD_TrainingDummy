@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Training20251224.models;
+
+public partial class Promotion
+{
+    public int PromotionId { get; set; }
+
+    public string PromotionName { get; set; } = null!;
+
+    public string DiscountType { get; set; } = null!;
+
+    public decimal DiscountValue { get; set; }
+
+    public string? ApplicableProducts { get; set; }
+
+    public DateTime StartDate { get; set; }
+
+    public DateTime EndDate { get; set; }
+
+    public decimal? MinimumOrderValue { get; set; }
+
+    public int Priority { get; set; }
+
+    public string? QuantityBasedRules { get; set; }
+
+    public virtual ICollection<QuantityBasedRuleDetail> QuantityBasedRuleDetails { get; set; } = new List<QuantityBasedRuleDetail>();
+}

@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training20251231\\training20251231\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|solutionrelative:training20251231\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training20251231\\training20251231\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|solutionrelative:training20251231\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training20251231\\training20251231\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|solutionrelative:training20251231\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training20251231\\training20251231\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|solutionrelative:training20251231\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training20251231\\training20251231\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|solutionrelative:training20251231\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|d:\\cmx file\\utem_degree\\year2sem2\\c#_note\\sad_trainingdummy\\training20251231\\training20251231\\models\\lyonsession4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957368A5-9194-47AC-BE1B-8F5E29BF53D1}|Training20251231\\Training20251231.csproj|solutionrelative:training20251231\\models\\lyonsession4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "helper.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\helper.cs",
+              "RelativeDocumentMoniker": "Training20251231\\helper.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\helper.cs",
+              "RelativeToolTip": "Training20251231\\helper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:36:59.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\models\\User.cs",
+              "RelativeDocumentMoniker": "Training20251231\\models\\User.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\models\\User.cs",
+              "RelativeToolTip": "Training20251231\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:25:06.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\models\\Address.cs",
+              "RelativeDocumentMoniker": "Training20251231\\models\\Address.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\models\\Address.cs",
+              "RelativeToolTip": "Training20251231\\models\\Address.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T07:24:56.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "Training20251231\\Controllers\\AddressesController.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\Controllers\\AddressesController.cs*",
+              "RelativeToolTip": "Training20251231\\Controllers\\AddressesController.cs*",
+              "ViewState": "AgIAANsAAAAAAAAAAAAEwOMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:41:19.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\Program.cs",
+              "RelativeDocumentMoniker": "Training20251231\\Program.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\Program.cs",
+              "RelativeToolTip": "Training20251231\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:38:27.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LyonSession4DbContext.cs",
+              "DocumentMoniker": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\models\\LyonSession4DbContext.cs",
+              "RelativeDocumentMoniker": "Training20251231\\models\\LyonSession4DbContext.cs",
+              "ToolTip": "D:\\CMX FILE\\utem_degree\\year2sem2\\c#_note\\SAD_TrainingDummy\\Training20251231\\Training20251231\\models\\LyonSession4DbContext.cs",
+              "RelativeToolTip": "Training20251231\\models\\LyonSession4DbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:38:21.995Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{35a13b2b-183b-3ec5-a509-0bd77da1a60c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
